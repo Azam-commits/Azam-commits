@@ -1,5 +1,17 @@
-# 💫 About Me:
-I’m a passionate Web Developer & Freelancer focused on building modern, responsive, and user-friendly websites. I work with PHP, MySQL, JavaScript, HTML, CSS, and Bootstrap, and enjoy turning ideas into clean, functional digital solutions.<br><br>🚀 Always learning, building, and improving — one project at a
+# 💫 Hi 👋, I'm Azam Khan
+
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin**
+
+Email Me 👉 ✉️ **azamkhaniop995@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+* 🔭 **I’m currently working on:** Online Class Helps
+* 🌱 **I’m currently learning:** Enter your tech here
+* 👯 **I’m looking to collaborate on:** Online Class Helps
+* 🤔 **I’m looking for help with:** Online Class Helps
+* 💬 **Ask me about:** Collaboration, Tech Support
+* 📫 **How to reach me:** Your Email Here
+* 😄 **Pronouns:** Azam Sir
+* ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
@@ -11,7 +23,11 @@ I’m a passionate Web Developer & Freelancer focused on building modern, respon
 ![](https://github-readme-stats.shion.dev/api?username=Azam-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Azam-commits&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Azam-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Azam-commits&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
